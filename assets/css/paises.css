@@ -1,0 +1,160 @@
+body{
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/1015/398/323/funny-countries-genius-4736x2188-entertainment-funny-hd-art-wallpaper-preview.jpg);
+  font-family: cursive;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-trivia{
+      color: white;
+      padding: 0px;
+      margin: 0px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 16px;
+      border-radius: 3px;
+      background-color: rgb(8, 12, 12);
+      text-align: center;
+}
+.presentacion{
+  border-radius: 15px;
+  border: 1px solid black;
+  box-shadow: 0 8px 10px rgba(47, 236, 148, 0.6);
+  background-color: white;
+  margin: 30px auto;
+  height: 450px;
+  width: 50%;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.marca {
+  border-radius: 15px 15px 0 0;
+  background-color: red;
+  color: black;
+}
+.botones {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.boton {
+  border-radius: 10px;
+  border: 1px solid black;
+  font-weight: 800;
+  display: block;
+  padding: 5px 10px;
+  margin: 10px auto;
+  width: 40%
+}
+
+.botonVolver {
+  background-color: #3ec2da;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-weight: 800;
+  display: block;
+  padding: 5px 10px;
+  margin: 10px auto;
+  width: 40%
+}
+
+.boton:hover,
+.botonTrivias:hover
+.botonSiguiente:hover {
+  background-color: #e4a32a;
+  color: white;
+  border: 1px solid white
+}
+
+.botonTrivias {
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px auto;
+  width: 80%}
+.titulo{
+  font-family: cursive;
+  text-align: center;
+  
+}
+.botonSiguiente{
+  text-decoration: none;
+  width: 60px;
+  padding: 20px;
+  margin: 30px;
+  background-color: rgb(131, 225, 241);
+  border: 3x solid rgb(41, 2, 2);
+  border-radius: 10px;
+  height: 40px;
+  color: black;
+}
+.botonSiguiente :hover{
+  background-color: rgb(104, 229, 238);
+  color: blue;
+  border: 2px solid rgb(255, 154, 169);
+  width: 60px;
+  
+}
+.parrafo{
+  text-align: center;
+}
+.boton-continuar{
+  text-decoration: none;
+  width: 60px;
+  padding: 10px;
+  margin: 20px;
+  background-color: rgb(140, 233, 240);
+  border: 3x solid rgb(41, 2, 2);
+  border-radius: 8px;
+  height: 20px;
+  color: black;
+}
+.boton-continuar:hover{
+  background-color: rgb(140, 233, 240);
+  color: black;
+  border: 2px solid rgb(34, 173, 46);}
+
+.boton-continuar:hover{
+  background-color: rgb(224, 36, 168);
+  color: black;
+  border: 2px solid rgb(255, 154, 169);}
+.boton-jugar de nuevo{
+text-decoration: none;
+  width: 60px;
+  padding: 10px;
+  margin: 20px;
+  background-color: rgb(143, 6, 102);
+  border: 3x solid rgb(41, 2, 2);
+  border-radius: 8px;
+  height: 20px;
+  color: black;}
+.boton-jugar de nuevo:hover{
+ background-color: rgb(224, 36, 168);
+  color: black;
+  border: 2px solid rgb(255, 154, 169);}
+.boton-nuevo usuario{
+ text-decoration: none;
+  width: 60px;
+  padding: 10px;
+  margin: 20px;
+  background-color: rgb(143, 6, 102);
+  border: 3x solid rgb(41, 2, 2);
+  border-radius: 8px;
+  height: 20px;
+  color: black;}
+.boton-nuevo usuario:hover{
+ background-color: rgb(224, 36, 168);
+  color: black;
+  border: 2px solid rgb(255, 154, 169);}
+
+
+

@@ -1,0 +1,67 @@
+.Inicio{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-bottom: 20%;
+    border: 5px solid #9c4ec1;
+    border-radius: 15px;
+    background-color: beige;
+    text-align: center;
+}
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/kawaii-elements-set-gamer-girl-s-game-cute-vector-kawaii-elements-set-gamer-girl-s-game-cute-vector-illustration-252847624.jpg);
+    font-family: cursive;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo-trivia{
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    border-radius: 3px;
+    background-color: #ff6666;
+
+}
+.boton-continuar{
+    text-decoration: none;
+    width: 60px;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(203, 93, 179);
+    border: 3x solid rgb(13, 13, 13);
+    border-radius: 8px;
+    height: 20px;
+    color: black;
+}
+.boton-continuar:hover{
+    background-color: #d33656;
+    color: black;
+    border: 2px solid lead;
+    
+}
+.boton-jugar-de-nuevo , .boton-nuevo-usuario{
+  text-decoration: none;
+    width: 60px;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(203, 93, 179);
+    border: 3x solid rgb(13, 13, 13);
+    border-radius: 8px;
+    height: 20px;
+    color: black;
+}
+.boton-jugar-de-nuevo:hover , .boton-nuevo-usuario:hover{
+    background-color: #d33656;
+    color: black;
+    border: 2px solid lead;
+    
+}
+.final{
+  background-image: url(https://ih1.redbubble.net/image.3214030728.3498/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg);
+  background-size: cover;
+  color: black;
+}
+
